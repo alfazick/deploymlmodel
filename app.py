@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def home():
-    return "Hello, Model Deplyment"
+    return "Hello, SET UP IS READY"
 
 
 if __name__ == '__main__':
